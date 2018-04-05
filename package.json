@@ -1,7 +1,7 @@
 {
   "name": "homebridge-mi-fm-controller",
-  "version": "0.0.1",
-  "description": "XiaoMi Gateway FM controller plugin for HomeBridge",
+  "version": "0.1.0",
+  "description": "a homebridge plugin let you can control XiaoMi Gateway FM",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
