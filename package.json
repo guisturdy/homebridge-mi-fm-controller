@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-mi-fm-controller",
+  "version": "0.0.1",
+  "description": "XiaoMi Gateway FM controller plugin for HomeBridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guisturdy/homebridge-mi-fm-controller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guisturdy/homebridge-mi-fm-controller/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "miio": "^0.15.6"
+  }
+}
